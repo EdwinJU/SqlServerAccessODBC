@@ -1,0 +1,8 @@
+c:\users\alfredo\documents\visual studio 2015\Projects\SqlAcccessODBC\SqlAcccessODBC\bin\Debug\SqlAcccessODBC.exe.config
+c:\users\alfredo\documents\visual studio 2015\Projects\SqlAcccessODBC\SqlAcccessODBC\obj\Debug\SqlAcccessODBC.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\documents\visual studio 2015\Projects\SqlAcccessODBC\SqlAcccessODBC\bin\Debug\SqlAcccessODBC.exe
+C:\Users\Alfredo\documents\visual studio 2015\Projects\SqlAcccessODBC\SqlAcccessODBC\bin\Debug\SqlAcccessODBC.pdb
+C:\Users\Alfredo\documents\visual studio 2015\Projects\SqlAcccessODBC\SqlAcccessODBC\bin\Debug\DBAccess.dll
+C:\Users\Alfredo\documents\visual studio 2015\Projects\SqlAcccessODBC\SqlAcccessODBC\bin\Debug\DBAccess.pdb
+C:\Users\Alfredo\documents\visual studio 2015\Projects\SqlAcccessODBC\SqlAcccessODBC\obj\Debug\SqlAcccessODBC.exe
+C:\Users\Alfredo\documents\visual studio 2015\Projects\SqlAcccessODBC\SqlAcccessODBC\obj\Debug\SqlAcccessODBC.pdb

@@ -1,0 +1,2 @@
+C:\Users\Alfredo\documents\visual studio 2015\Projects\SqlAcccessODBC\SqlAcccessODBC\bin\Debug\SqlAcccessODBCPro.exe.config
+C:\Users\Alfredo\documents\visual studio 2015\Projects\SqlAcccessODBC\SqlAcccessODBC\obj\Debug\SqlAcccessODBCPro.csprojResolveAssemblyReference.cache
